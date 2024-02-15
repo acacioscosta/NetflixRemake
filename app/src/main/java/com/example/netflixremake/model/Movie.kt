@@ -1,4 +1,4 @@
-package com.example.netflixremake
+package com.example.netflixremake.model
 
 import androidx.annotation.DrawableRes
 
