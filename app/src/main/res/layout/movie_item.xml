@@ -17,6 +17,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         android:layout_marginStart="4dp"
-        android:layout_marginEnd="4dp"/>
+        android:layout_marginEnd="4dp"
+        android:contentDescription="@string/cover" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
